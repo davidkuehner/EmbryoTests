@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<document xmlns="http://hoa-project.net/xyl/xylophone">
+  <title><value bind="?title" /> — Visulisator</title>
+
+  <header>
+    <h1>Regular expressions/h1>
+  </header>
+
+  <div id="main" />
+
+  <footer>
+    <p>Author: David Kühner © 2013. This blog is powered by
+    <a href="http://hoa-project.net/">Hoa</a> and
+    <a href="http://php.net/">PHP</a>.</p>
+  </footer>
+</document>
